@@ -1,0 +1,14 @@
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\tarea3.GeneratedMSBuildEditorConfig.editorconfig
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\tarea3.AssemblyInfoInputs.cache
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\tarea3.AssemblyInfo.cs
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\tarea3.csproj.CoreCompileInputs.cache
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\bin\Debug\net8.0\tarea3.exe
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\bin\Debug\net8.0\tarea3.deps.json
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\bin\Debug\net8.0\tarea3.runtimeconfig.json
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\bin\Debug\net8.0\tarea3.dll
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\bin\Debug\net8.0\tarea3.pdb
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\tarea3.dll
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\refint\tarea3.dll
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\tarea3.pdb
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\tarea3.genruntimeconfig.cache
+E:\LaSalleOnline\M09\UF2\ICB0009-UF2-PR01-rogerbarrerosorribas\ICB0009-UF2-PR01-rogerbarrerosorribas\ejercicio1\tarea3\obj\Debug\net8.0\ref\tarea3.dll
